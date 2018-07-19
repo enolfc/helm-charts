@@ -4,7 +4,7 @@
 <p>Some charts for EGI Notebooks deployment</p>
 
 <h2>Releases</h2>
-{% assign charts = site.data.index.entries.notekook-monitor | sort: 'created' | reverse %}
+{% assign charts = site.data.index.entries.notebook-monitor | sort: 'created' | reverse %}
 <table>
   <tr>
     <th>release</th>
