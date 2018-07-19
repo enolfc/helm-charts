@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  notebook-monitor:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-07-19T10:26:26.479595+01:00
+    description: A Helm chart for Kubernetes
+    digest: eecb3c3a1c321f261fb3141857ca0c5aef9a050c99030dc0daadf2ef9dd2dbb9
+    name: notebook-monitor
+    urls:
+    - notebook-monitor-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-19T10:26:26.478444+01:00
